@@ -1,6 +1,6 @@
 # Tumblër
 
-This is responsive website for Tumblër: a smart device that lets users know and control the status of their clothes in the washer/dryer in their home, or at the laundromat. [This site is live here.](https://venus.cs.qc.cuny.edu/~abma2399/iot-tumbler/public/)
+This is responsive website for Tumblër: a smart device that lets users know and control the status of their clothes in the washer/dryer in their home, or at the laundromat. [This site is live here.](https://markab4.github.io/iot-tumbler/index.html)
 
 ### Roles
 * Mark Abramov
